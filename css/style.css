@@ -420,6 +420,7 @@ padding-top: 50px;
     background-color: transparent;
 
 }
+
 .input:focus + .label {
     transform: translateY(-15px);
     font-size: 12px;
